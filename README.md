@@ -19,4 +19,4 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları t
 
 1. Bu depoyu klonlayın:
    ```bash
-   git clone https://github.com/Ahmetyilmazz/Flutter_Apps.git
+   git clone https://github.com/Ahmetyilmazz/react-native-giris.git
